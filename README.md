@@ -1,2 +1,0 @@
-# gymnasium-project
-Gymnasium Project
